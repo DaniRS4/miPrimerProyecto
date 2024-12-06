@@ -1,3 +1,4 @@
 - Python
 - Matlab
 - Iniciándome en JavaScript
+- HTML y CSS muy básico
