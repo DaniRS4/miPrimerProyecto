@@ -1,3 +1,4 @@
 Lista de mis objetivos en el Master:
 	- Aprender los conceptos del full stack
 	- Aprender maquetación web
+	- Mejorar mi lógica de código
