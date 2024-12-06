@@ -1,2 +1,3 @@
 - Python
 - Matlab
+- Iniciándome en JavaScript
